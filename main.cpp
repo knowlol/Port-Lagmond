@@ -1,3 +1,5 @@
+// Would've used WinExec, but I hear it's not good to use it due to it being deprecated. No idea if ShellExecute is a good alternative, but it works just fine :P
+
 #include <iostream>
 #include <windows.h>
 #include <string>
