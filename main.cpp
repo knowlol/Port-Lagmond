@@ -4,8 +4,6 @@
 #include <windows.h>
 #include <string>
 
-using namespace std;
-
 int main()
 {
 	ShowWindow(GetConsoleWindow(), SW_HIDE);
